@@ -1,0 +1,3 @@
+false moderate medium
+true steep high
+true flat low

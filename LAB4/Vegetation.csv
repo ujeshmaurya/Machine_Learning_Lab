@@ -1,0 +1,8 @@
+ID,Stream,Slope,Elevation,Vegetation
+1,false,steep,high,carrot
+2,true,moderate,low,raddish
+3,true,steep,medium,raddish
+4,false,steep,medium,carrot
+5,false,flat,high,corriander
+6,true,steep,highest,corriander
+7,true,steep,high,carrot

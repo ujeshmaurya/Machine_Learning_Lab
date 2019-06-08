@@ -1,0 +1,4 @@
+ID, Stream, Slope , Elevation , Vegetation
+1, false , moderate , medium ,C
+2, true , steep , high ,C
+3, true , flat , low ,C
